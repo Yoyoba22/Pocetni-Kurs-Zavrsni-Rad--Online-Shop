@@ -1,0 +1,4 @@
+1|Duncan Proyo|900
+2|Magic Yoyo T9|1900
+3|Duncan Freehand|2200
+4|Magic Yoyo Holder|600
